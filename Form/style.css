@@ -1,0 +1,27 @@
+body
+{
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+
+.col-md-6
+{
+    
+    margin-top: 150px;
+    padding: 20px;
+}
+
+.success
+{
+    border: 3px solid green !important;
+}
+
+.error
+{
+    border: 3px solid red;
+}
+small 
+{
+    color: red;
+    font-weight: bold !important;
+    text-align: left !important;
+}
